@@ -6,9 +6,9 @@
 
 <h1 align="center">Hi 👋, I'm Jenish Parmar</h1>
 
-<h4>
+<h3>
   👨‍💻 4th Year Computer Engineering Student | B.Tech @ Atmiya University, Rajkot, Gujarat, India
-</h2>
+</h3>
 
 <br>
 
